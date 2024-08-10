@@ -1,0 +1,10 @@
+dev\aman\movieist\MovieistApplication$1.class
+dev\aman\movieist\controller\ReviewController.class
+dev\aman\movieist\repository\ReviewRepository.class
+dev\aman\movieist\MovieistApplication.class
+dev\aman\movieist\repository\MovieRepository.class
+dev\aman\movieist\controller\MovieController.class
+dev\aman\movieist\service\MovieService.class
+dev\aman\movieist\model\Movie.class
+dev\aman\movieist\model\Review.class
+dev\aman\movieist\service\ReviewService.class
