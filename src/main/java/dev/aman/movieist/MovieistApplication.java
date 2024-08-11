@@ -18,7 +18,7 @@ public class MovieistApplication {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000") // React app URL
+                        .allowedOrigins("https://66b8c7136801ee690244e32d--gleeful-duckanoo-bd8f80.netlify.app") // React app URL
                         .allowedMethods("*")
                         .allowedHeaders("*")
                         .allowCredentials(true);
