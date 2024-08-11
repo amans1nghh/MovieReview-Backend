@@ -18,7 +18,7 @@ public class MovieistApplication {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("*") // Allow all origins
+                        .allowedOrigins("*") // React app URL
                         .allowedMethods("*")
                         .allowedHeaders("*")
                         .allowCredentials(true);
