@@ -16,6 +16,7 @@ import dev.aman.movieist.service.MovieService;
 
 @RestController
 @RequestMapping("/api/v1/movies")
+@CrossOrigin(origins = "https://66b8c7136801ee690244e32d--gleeful-duckanoo-bd8f80.netlify.app")
 
 public class MovieController {
 
